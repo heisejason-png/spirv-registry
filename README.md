@@ -209,4 +209,5 @@ Note: we no longer push the HTML along side the extension.
 ## Extended Instruction Set Specifications
 
 * [TOSA.001000.1                           ]( https://github.khronos.org/SPIRV-Registry/extended/TOSA.001000.1.html)
-Created by Jason Heise https://next.frame.io
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
